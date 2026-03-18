@@ -1,0 +1,106 @@
+# House Price Prediction Using Regression Models
+
+## 📌 Project Overview
+
+This project focuses on building a **house price prediction system** using regression techniques. The dataset was prepared through prior data collection and preprocessing, and multiple machine learning models were trained and evaluated to predict house prices accurately.
+
+---
+
+## 🎯 Objectives
+
+* Split the dataset into training and testing sets
+* Train a regression model to predict house prices
+* Evaluate model performance using appropriate metrics
+* Compare multiple models to determine the best performer
+
+---
+
+## 🛠️ Tools and Technologies
+
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+
+---
+
+## 📊 Methodology
+
+### 1. Data Preparation
+
+* Cleaned and processed dataset
+* Handled missing values
+* Encoded categorical features
+* Scaled numerical features
+
+### 2. Train-Test Split
+
+The dataset was divided into:
+
+* Training set (for model learning)
+* Testing set (for evaluation)
+
+---
+
+### 3. Model Training
+
+The following models were implemented:
+
+* **Linear Regression**
+* **Decision Tree Regressor**
+* **Random Forest Regressor**
+
+---
+
+### 4. Model Evaluation
+
+Models were evaluated using:
+
+* **Mean Squared Error (MSE)**
+* **R-squared (R² Score)**
+
+These metrics help measure:
+
+* Prediction accuracy
+* Model performance
+
+---
+
+## 📈 Results and Insights
+
+* The **Linear Regression model** provided a baseline for prediction.
+* The **Decision Tree model** captured non-linear relationships in the data.
+* The **Random Forest model** achieved better performance due to ensemble learning, improving prediction accuracy.
+
+Overall, model comparison showed that more advanced models can improve performance over simple linear regression.
+
+---
+
+## 📂 Project Workflow
+
+```text
+Data Collection → Data Cleaning → Feature Engineering → 
+Train-Test Split → Model Training → Model Evaluation
+```
+
+---
+
+## 💡 Key Learnings
+
+* Importance of data preprocessing in machine learning
+* Understanding regression models and their differences
+* Evaluating models using MSE and R²
+* Comparing multiple models to select the best one
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates an end-to-end machine learning workflow for predicting house prices. It highlights the importance of model selection and evaluation in building effective predictive systems.
+
+---
+
+## 👤 Author
+
+Muhammed Bello Abdullahi
+Data Science Intern
